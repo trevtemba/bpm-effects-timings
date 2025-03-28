@@ -8,7 +8,7 @@ A simple CLI tool that calculates baseline effect timings (Reverb Delay, Pre-Del
 
 ### **Windows**  
 1. **Download the latest release**  
-   - Go to the [Releases](https://github.com/yourusername/bpm-effects-timings/releases) page.  
+   - Go to the [Releases](https://github.com/trevtemba/bpm-effects-timings/releases/tag/v1.0-alpha) page.  
    - Download `t.exe`.  
 
 2. **Move the executable to a directory in your PATH**  
